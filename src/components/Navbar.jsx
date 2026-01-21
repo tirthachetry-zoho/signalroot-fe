@@ -35,7 +35,7 @@ const Navbar = () => {
           </Link>
           
           <a 
-            href="https://docs.signalroot.com" 
+            href="https://signalroot-docs.vercel.app" 
             target="_blank"
             rel="noopener noreferrer"
             className="nav-link"
